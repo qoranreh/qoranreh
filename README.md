@@ -13,16 +13,6 @@
 
 ---
 
-### 🔬 Current Research
-
-**Cross-Embodiment Adaptation of VLA Policies — Reproducing DART on Franka Panda → xArm7** *(ongoing)*
-
-<img src="assets/dart_panda_xarm7.gif" width="480" alt="Franka Panda (left) and xArm7 (right) performing the same pick-and-place task">
-
-Transferring a π0.5 VLA policy trained on the Franka Panda to the xArm7 from a single demonstration, by reproducing **DART** (ECCV 2026) on LIBERO-Spatial.
-On held-out tasks, one-shot fine-tuning reaches 0% while the DART-composed policy reaches 73% (pretrained: 56%).
-→ [Details, videos, and results](https://qoranreh.github.io)
-
 ### 🧪 Research Experience
 
 - **Undergraduate Research Intern**, Seoul National University · *Feb. 2026 – Present*<br>
