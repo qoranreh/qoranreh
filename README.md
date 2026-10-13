@@ -22,7 +22,8 @@
 
 ### 📄 Publications
 
-- *Analysis of GDB-based CPython Debugging Environment* — KIPS 2025 (Korea Information Processing Society Conference), co-author
+- [**Analysis on CPython Debugging Environment based on GDB**](https://koreascience.kr/article/CFKO202532554027542.page)<br>
+  Shin-Hyeok Park, Jeong-Yun Lee, **Hayeon Lee**, Hong Min · *Annual Conference of KIPS 2025*, pp. 503–504
 
 ### 🤖 Projects
 
